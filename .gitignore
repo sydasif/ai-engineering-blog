@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Local environment
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.log
+
+# Build output (if an SSG is added later)
+public/
+dist/
+_site/
