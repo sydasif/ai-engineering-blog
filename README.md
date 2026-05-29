@@ -7,6 +7,7 @@ Welcome to my technical blog focused on AI engineering, agentic workflows, and t
 ### 🚀 Getting Started
 
 - [Getting Started with Claude Code: Your First AI Coding Partner](content/posts/2026-05-28-getting-started-with-claude-code.md) — _A comprehensive guide to installing and collaborating with the Claude Code CLI._
+- [Debugging and Code Review with Claude Code](content/posts/2026-05-28-debugging-and-code-review-with-claude-code.md) — _Learn how to use Claude Code as a debugging and code review partner to identify bugs, automate reviews, and build an iterative fix loop._
 
 ### 🧠 Deep Dives
 
