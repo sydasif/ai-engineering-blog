@@ -6,12 +6,12 @@ Welcome to my technical blog focused on AI engineering, agentic workflows, and t
 
 ### 🚀 Getting Started
 
-- [Getting Started with Claude Code: Your First AI Coding Partner](content/posts/2026-05-28-getting-started-with-claude-code.md) — _A comprehensive guide to installing and collaborating with the Claude Code CLI._
-- [Debugging and Code Review with Claude Code](content/posts/2026-05-28-debugging-and-code-review-with-claude-code.md) — _Learn how to use Claude Code as a debugging and code review partner to identify bugs, automate reviews, and build an iterative fix loop._
+- [Getting Started with Claude Code: Your First AI Coding Partner](content/posts/2026-05-26-getting-started-with-claude-code.md) — _A comprehensive guide to installing and collaborating with the Claude Code CLI._
+- [Debugging and Code Review with Claude Code](content/posts/2026-05-29-debugging-and-code-review-with-claude-code.md) — _Learn how to use Claude Code as a debugging and code review partner to identify bugs, automate reviews, and build an iterative fix loop._
 
 ### 🧠 Deep Dives
 
-- [How Claude Code Thinks: Inside Your AI Coding Assistant](content/posts/2026-05-28-how-claude-code-thinks.md) — _An exploration of context windows, tokens, and the reasoning engine._
+- [How Claude Code Thinks: Inside Your AI Coding Assistant](content/posts/2026-05-27-how-claude-code-thinks.md) — _An exploration of context windows, tokens, and the reasoning engine._
 - [Refactoring and Optimization Workflows](content/posts/2026-05-30-refactoring-and-optimization-workflows.md) — _Turning messy code into clean, fast systems using agentic workflows._
 
 ### ✍️ Mastering Prompting
