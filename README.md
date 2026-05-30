@@ -12,6 +12,7 @@ Welcome to my technical blog focused on AI engineering, agentic workflows, and t
 ### 🧠 Deep Dives
 
 - [How Claude Code Thinks: Inside Your AI Coding Assistant](content/posts/2026-05-28-how-claude-code-thinks.md) — _An exploration of context windows, tokens, and the reasoning engine._
+- [Refactoring and Optimization Workflows](content/posts/2026-05-30-refactoring-and-optimization-workflows.md) — _Turning messy code into clean, fast systems using agentic workflows._
 
 ### ✍️ Mastering Prompting
 
