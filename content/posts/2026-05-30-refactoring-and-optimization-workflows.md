@@ -191,7 +191,7 @@ Use this when you want to separate creation from usage — useful when the logge
 
 ---
 
-## 5.3 Performance Optimization
+## Performance Optimization
 
 Optimize where you have a measured bottleneck. Claude helps identify inefficiencies early, explains root causes, and proposes targeted improvements.
 
@@ -243,7 +243,7 @@ On a 10MB file the difference is minutes vs. milliseconds.
 
 ---
 
-## 5.4 Simplification vs. Efficiency
+## Simplification vs. Efficiency
 
 Not every optimization is worth its complexity. Sometimes the simpler code is the better choice.
 
@@ -296,7 +296,7 @@ Simplify where clarity yields lasting value. Optimize only where you have a meas
 
 ---
 
-## 5.5 Example Project: Optimizing a Web Scraper
+## Example Project: Optimizing a Web Scraper
 
 A complete example: take a slow synchronous scraper and turn it into a concurrent, fault-tolerant pipeline.
 
@@ -416,7 +416,7 @@ items = asyncio.run(scrape(URLS))
 
 ---
 
-## 5.6 Cost Considerations
+## Cost Considerations
 
 Token costs are real for teams running Claude at scale. A few practices keep them under control.
 
